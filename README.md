@@ -1,4 +1,4 @@
-#pyxelで作った物のブラウザ動作確認用
+##pyxelで作った物のブラウザ動作確認用
 
 [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/)
 
