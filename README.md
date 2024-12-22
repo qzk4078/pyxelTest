@@ -3,4 +3,6 @@
 [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/)
 
 
-https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.test_pyxel
+my_pyxel_lib
+https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.my_pyxel_lib&packages=numpy
+
