@@ -6,3 +6,7 @@
 my_pyxel_lib
 https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.my_pyxel_lib&packages=numpy
 
+
+columusume
+https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.columusume&gamepad=enabled
+
