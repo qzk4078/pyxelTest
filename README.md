@@ -8,5 +8,6 @@ https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.my_pyxel_lib
 
 
 columusume
-https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.columusume&gamepad=enabled
+https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.columusume&gamepad=enabled&packages=numpy
+
 
