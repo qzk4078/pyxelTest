@@ -4,7 +4,7 @@
 
 
 my_pyxel_lib
-https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.my_pyxel_lib&packages=numpy
+https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.pyxelTest.my_pyxel_lib&gamepad=enabled&packages=numpy
 
 
 
